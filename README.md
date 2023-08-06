@@ -1,6 +1,8 @@
 # AI Chat with Streamlit
 Aplikasi ini memungkinkan Anda berinteraksi dengan asisten AI menggunakan model bahasa GPT-3.5 Turbo dari OpenAI. Anda dapat mengajukan pertanyaan kepada asisten AI dan menerima responsnya dalam waktu nyata.
 
+<img width="1440" alt="Jepretan Layar 2023-08-06 pukul 15 03 46" src="https://github.com/OmenYar/AI-Chat-Streamlit/assets/109267502/df4780d7-3bf8-48ed-9485-d4089205308c">
+
 ## Fitur
 
 - Memuat model bahasa GPT-3.5 Turbo dari OpenAI
